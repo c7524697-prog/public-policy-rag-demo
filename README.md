@@ -7,7 +7,7 @@ Personal open-source project exploring retrieval-augmented generation (RAG) for 
 - Not affiliated with any government agency—pure learning exercise.
 
 ## Live Demo
-[Streamlit link—add after deploy]
+https://ncci-policy-rag-demo.streamlit.app
 
 ## Local Setup
 1. Clone repo
